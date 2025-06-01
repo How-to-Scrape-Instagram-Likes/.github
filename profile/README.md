@@ -1333,12 +1333,6 @@ Learn HikerAPI fundamentals: [What is HikerAPI](https://github.com/hikerapi)
 
 Build custom Instagram bots: [How to Create Your Own Instagram Bot](https://github.com/Create-Instagram-Bot)
 
-Professional Instagram data extraction guide: [Instagram API for Data Extraction](https://github.com/instagram-api-guide)
-
-Master Instagram follower analytics: [Instagram Follower Scraping API](https://github.com/instagram-follower-api)
-
-Advanced hashtag intelligence: [Instagram Hashtag Analytics API](https://github.com/instagram-hashtag-api)
-
 Start professional likes scraping: [HikerAPI](https://hikerapi.com/p/bny5ezdj)
 
 ---
